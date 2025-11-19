@@ -1,6 +1,6 @@
 # Filter Bubble - Media Maze Game
 
-A thought-provoking maze game that demonstrates how media consumption shapes our perception of reality. Navigate through a dynamic maze that transforms based on the news sources you collect, visualizing how information echo chambers affect our worldview.
+A maze game that demonstrates how media consumption shapes our perception of reality. Navigate through a dynamic maze that transforms based on the news sources you collect, visualizing how information echo chambers affect our worldview.
 
 ## Game Concept
 
