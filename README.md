@@ -4,7 +4,7 @@ A maze game that demonstrates how media consumption shapes our perception of rea
 
 ## Game Concept
 
-In Filter Bubble, you navigate through a maze where walls literally appear and disappear based on which news sources you collect. This creates a tangible metaphor for how our media choices don't just inform us—they shape the very landscape of possibilities we can perceive.
+In Filter Bubble, you navigate through a maze where walls literally appear and disappear based on which news sources you collect. This creates a tangible metaphor for how our media choices don't just inform us, they shape the very landscape of possibilities we can perceive.
 
 ## Educational Themes
 
