@@ -21,7 +21,6 @@ YELLOW = (255, 255, 100)
 PURPLE = (200, 100, 255)
 
 # Maze layouts - 1 = wall, 0 = path, S = start, E = exit, A/B = source locations
-# CRITICAL: Sources A and B must be at positions that are ALWAYS open paths
 MAZE_LAYOUTS = {
     "neutral": [
         "11111111111111111111",
